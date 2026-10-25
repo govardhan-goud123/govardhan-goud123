@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:240046,70:5A189A,100:00E5FF&height=240&section=header&text=GOVARDHAN%20GOUD&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20DATA%20ANALYTICS&descSize=15&descAlignY=60&animation=fadeIn" alt="Govardhan Goud premium profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:240046,70:5A189A,100:00E5FF&height=240&section=header&text=GOVARDHAN%20GOUD&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20DATA%20ANALYTICS&descSize=15&descAlignY=60&animation=fadeIn" alt="Govardhan Goud profile banner"/>
 
 <br/>
 
@@ -39,26 +39,20 @@ My learning journey covers programming, data analytics, machine learning, deep l
 
 ### Professional Focus
 
-Data Science and Machine Learning
-
-Artificial Intelligence and Deep Learning
-
-Natural Language Processing and LLMs
-
-Business Intelligence and Data Analytics
+* Data Science and Machine Learning
+* Artificial Intelligence and Deep Learning
+* Natural Language Processing and LLMs
+* Business Intelligence and Data Analytics
 
 </td>
 <td width="50%" valign="top">
 
 ### Technical Focus
 
-Python and SQL
-
-Power BI and Tableau
-
-TensorFlow, Keras, and PyTorch
-
-Pandas, NumPy, and Scikit-learn
+* Python and SQL
+* Power BI and Tableau
+* TensorFlow, Keras, and PyTorch
+* Pandas, NumPy, and Scikit-learn
 
 </td>
 </tr>
@@ -72,7 +66,7 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 # ARTIFICIAL INTELLIGENCE ECOSYSTEM
 
-<img width="100%" src="https://quickchart.io/graphviz?graph=digraph%20G%20%7B%20graph%20%5Bbgcolor%3D%22%23090014%22%2Crankdir%3DTB%2Cpad%3D%220.35%22%2Cnodesep%3D%220.45%22%2Cranksep%3D%220.65%22%5D%3B%20node%20%5Bshape%3Dbox%2Cstyle%3D%22rounded%2Cfilled%22%2Cfontname%3D%22Arial%22%2Cfontsize%3D%2213%22%2Cmargin%3D%220.22%2C0.15%22%2Ccolor%3D%22%2300E5FF%22%2Cfontcolor%3D%22white%22%2Cpenwidth%3D%222%22%5D%3B%20edge%20%5Bcolor%3D%22%23B517FF%22%2Cpenwidth%3D%222%22%2Carrowsize%3D%220.8%22%5D%3B%20root%20%5Blabel%3D%22ARTIFICIAL%20INTELLIGENCE%22%2Cfillcolor%3D%22%23240046%22%2Cfontsize%3D%2220%22%5D%3B%20ds%20%5Blabel%3D%22DATA%20SCIENCE%5CnPython%20%7C%20SQL%5CnStatistics%20%7C%20Analysis%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20ml%20%5Blabel%3D%22MACHINE%20LEARNING%5CnClassification%20%7C%20Regression%5CnClustering%20%7C%20Prediction%22%2Cfillcolor%3D%22%23200B3B%22%5D%3B%20dl%20%5Blabel%3D%22DEEP%20LEARNING%5CnTensorFlow%20%7C%20Keras%20%7C%20PyTorch%5CnNeural%20Networks%22%2Cfillcolor%3D%22%230D3036%22%5D%3B%20nlp%20%5Blabel%3D%22NLP%20AND%20GENERATIVE%20AI%5CnTransformers%20%7C%20LLMs%5CnRAG%20%7C%20Text%20Processing%22%2Cfillcolor%3D%22%23240046%22%5D%3B%20bi%20%5Blabel%3D%22DATA%20ANALYTICS%5CnPower%20BI%20%7C%20Tableau%5CnExcel%20%7C%20Visualization%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20out%20%5Blabel%3D%22DATA-DRIVEN%20INSIGHTS%20AND%20INTELLIGENT%20SOLUTIONS%22%2Cfillcolor%3D%22%233A0CA3%22%2Cfontsize%3D%2215%22%5D%3B%20root-%3Eds%3B%20root-%3Eml%3B%20root-%3Edl%3B%20root-%3Enlp%3B%20root-%3Ebi%3B%20%7B%20rank%3Dsame%3B%20ds%3Bml%3Bdl%3Bnlp%3Bbi%3B%20%7D%20ds-%3Eout%3B%20ml-%3Eout%3B%20dl-%3Eout%3B%20nlp-%3Eout%3B%20bi-%3Eout%3B%20%7D" alt="Artificial Intelligence ecosystem diagram connecting Data Science, Machine Learning, Deep Learning, NLP, Generative AI, and Data Analytics"/>
+<img width="100%" src="https://quickchart.io/graphviz?graph=digraph%20G%20%7B%20graph%20%5Bbgcolor%3D%22%23090014%22%2Crankdir%3DTB%2Cpad%3D%220.35%22%2Cnodesep%3D%220.45%22%2Cranksep%3D%220.65%22%5D%3B%20node%20%5Bshape%3Dbox%2Cstyle%3D%22rounded%2Cfilled%22%2Cfontname%3D%22Arial%22%2Cfontsize%3D%2213%22%2Cmargin%3D%220.22%2C0.15%22%2Ccolor%3D%22%2300E5FF%22%2Cfontcolor%3D%22white%22%2Cpenwidth%3D%222%22%5D%3B%20edge%20%5Bcolor%3D%22%23B517FF%22%2Cpenwidth%3D%222%22%2Carrowsize%3D%220.8%22%5D%3B%20root%20%5Blabel%3D%22ARTIFICIAL%20INTELLIGENCE%22%2Cfillcolor%3D%22%23240046%22%2Cfontsize%3D%2220%22%5D%3B%20ds%20%5Blabel%3D%22DATA%20SCIENCE%5CnPython%20%7C%20SQL%5CnStatistics%20%7C%20Analysis%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20ml%20%5Blabel%3D%22MACHINE%20LEARNING%5CnClassification%20%7C%20Regression%5CnClustering%20%7C%20Prediction%22%2Cfillcolor%3D%22%23200B3B%22%5D%3B%20dl%20%5Blabel%3D%22DEEP%20LEARNING%5CnTensorFlow%20%7C%20Keras%20%7C%20PyTorch%5CnNeural%20Networks%22%2Cfillcolor%3D%22%230D3036%22%5D%3B%20nlp%20%5Blabel%3D%22NLP%20AND%20GENERATIVE%20AI%5CnTransformers%20%7C%20LLMs%5CnRAG%20%7C%20Text%20Processing%22%2Cfillcolor%3D%22%23240046%22%5D%3B%20bi%20%5Blabel%3D%22DATA%20ANALYTICS%5CnPower%20BI%20%7C%20Tableau%5CnExcel%20%7C%20Visualization%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20out%20%5Blabel%3D%22DATA-DRIVEN%20INSIGHTS%20AND%20INTELLIGENT%20SOLUTIONS%22%2Cfillcolor%3D%22%233A0CA3%22%2Cfontsize%3D%2215%22%5D%3B%20root-%3Eds%3B%20root-%3Eml%3B%20root-%3Edl%3B%20root-%3Enlp%3B%20root-%3Ebi%3B%20%7B%20rank%3Dsame%3B%20ds%3Bml%3Bdl%3Bnlp%3Bbi%3B%20%7D%20ds-%3Eout%3B%20ml-%3Eout%3B%20dl-%3Eout%3B%20nlp-%3Eout%3B%20bi-%3Eout%3B%20%7D" alt="Artificial Intelligence ecosystem connecting Data Science, Machine Learning, Deep Learning, NLP, Generative AI, and Data Analytics"/>
 
 </div>
 
@@ -82,11 +76,7 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 # MACHINE LEARNING WORKFLOW
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=250&color=00E5FF&center=true&vCenter=true&width=1000&height=90&lines=DATA+COLLECTION+%E2%9E%9C+DATA+CLEANING;DATA+CLEANING+%E2%9E%9C+EXPLORATORY+ANALYSIS;EXPLORATORY+ANALYSIS+%E2%9E%9C+FEATURE+ENGINEERING;FEATURE+ENGINEERING+%E2%9E%9C+MODEL+TRAINING;MODEL+TRAINING+%E2%9E%9C+EVALUATION;EVALUATION+%E2%9E%9C+INSIGHTS+AND+DEPLOYMENT" alt="Animated machine learning workflow arrows showing each stage in sequence"/>
-
-<br/>
-
-<img width="100%" src="https://quickchart.io/graphviz?graph=digraph%20G%20%7B%20graph%20%5Bbgcolor%3D%22%23090014%22%2Crankdir%3DLR%2Cpad%3D%220.35%22%2Cnodesep%3D%220.35%22%2Cranksep%3D%220.45%22%5D%3B%20node%20%5Bshape%3Dbox%2Cstyle%3D%22rounded%2Cfilled%22%2Cfontname%3D%22Arial%22%2Cfontsize%3D%2212%22%2Cmargin%3D%220.2%2C0.15%22%2Ccolor%3D%22%2300E5FF%22%2Cfontcolor%3D%22white%22%2Cpenwidth%3D%222%22%5D%3B%20edge%20%5Bcolor%3D%22%23B517FF%22%2Cpenwidth%3D%222%22%5D%3B%20a%20%5Blabel%3D%22DATA%20COLLECTION%22%2Cfillcolor%3D%22%2316003B%22%5D%3B%20b%20%5Blabel%3D%22DATA%20CLEANING%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20c%20%5Blabel%3D%22EXPLORATORY%20ANALYSIS%22%2Cfillcolor%3D%22%2316003B%22%5D%3B%20d%20%5Blabel%3D%22FEATURE%20ENGINEERING%22%2Cfillcolor%3D%22%230D3036%22%5D%3B%20e%20%5Blabel%3D%22MODEL%20TRAINING%22%2Cfillcolor%3D%22%23200B3B%22%5D%3B%20f%20%5Blabel%3D%22EVALUATION%22%2Cfillcolor%3D%22%2316003B%22%5D%3B%20g%20%5Blabel%3D%22INSIGHTS%20AND%20DEPLOYMENT%22%2Cfillcolor%3D%22%233A0CA3%22%5D%3B%20a-%3Eb-%3Ec-%3Ed-%3Ee-%3Ef-%3Eg%3B%20%7D" alt="Machine learning workflow from data collection through cleaning, analysis, feature engineering, model training, evaluation, and deployment"/>
+<img width="100%" src="./assets/machine-learning-workflow.gif" alt="Animated workflow with moving arrows connecting Data Collection, Data Cleaning, Exploratory Data Analysis, Feature Engineering, Model Training, Evaluation, and Deployment"/>
 
 </div>
 
@@ -104,7 +94,7 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C plus plus"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>
 
 <br/>
 
@@ -236,12 +226,10 @@ Data-Driven Decisions
 
 <br/><br/>
 
-<div align="center">
-
 <h2>GitHub Contribution Activity</h2>
 
 <a href="https://github.com/govardhan-goud123">
-  <img width="95%" src="https://ghchart.rshah.org/5A189A/govardhan-goud123" alt="GitHub contribution activity chart"/>
+<img width="95%" src="https://ghchart.rshah.org/5A189A/govardhan-goud123" alt="GitHub contribution activity chart"/>
 </a>
 
 </div>
@@ -278,7 +266,7 @@ My goal is to understand how data becomes information, how information supports 
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:5A189A,100:090014&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=23&fontColor=FFFFFF&fontAlignY=55" alt="Animated profile footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:5A189A,100:090014&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=23&fontColor=FFFFFF&fontAlignY=55" alt="Profile footer"/>
 
 **Data Science. Artificial Intelligence. Continuous Growth.**
 
