@@ -86,7 +86,7 @@ My goal is to strengthen my technical skills and develop practical solutions by 
 
 <p>My learning journey from Python basics to building and deploying Generative AI applications.</p>
 
-<img width="100%" src="./assets/simple-genai-roadmap.gif" alt="Simple animated Generative AI roadmap"/>
+<img width="100%" src="https://slidebazaar.com/wp-content/uploads/2025/03/Generative-AI-Roadmap-Infographic-Presentation-Slide.jpg" alt="Simple animated Generative AI roadmap"/>
 
 </div>
 
