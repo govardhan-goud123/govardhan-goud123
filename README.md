@@ -237,16 +237,7 @@ Data-Driven Decisions
 <h2>GitHub Contribution Activity</h2>
 
 <a href="https://github.com/govardhan-goud123">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=govardhan-goud123&bg_color=0D1117&color=00E5FF&line=6C63FF&point=00E5FF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
-</a>
-
-</div>
-
-
-<br/><br/>
-
-<a href="https://github.com/govardhan-goud123">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=govardhan-goud123&theme=react-dark" alt="GitHub activity graph"/>
+  <img width="95%" src="https://ghchart.rshah.org/5A189A/govardhan-goud123" alt="GitHub contribution activity chart"/>
 </a>
 
 </div>
@@ -275,6 +266,10 @@ My goal is to understand how data becomes information, how information supports 
 
 <a href="https://github.com/govardhan-goud123">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Visit my GitHub profile"/>
+</a>
+
+<a href="mailto:govardhangoud0507@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
 
 <br/><br/>
