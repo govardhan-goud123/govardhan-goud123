@@ -1,279 +1,211 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:240046,70:5A189A,100:00E5FF&height=240&section=header&text=GOVARDHAN%20GOUD&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20DATA%20ANALYTICS&descSize=15&descAlignY=60&animation=fadeIn" alt="Govardhan Goud premium profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:6C63FF,100:00E5FF&text=Govardhan%20Goud&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=58&descSize=16&animation=fadeIn" alt="Govardhan Goud profile banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+and+Data+Science;Machine+Learning+and+Deep+Learning;Natural+Language+Processing+and+LLMs;Turning+Data+into+Intelligent+Solutions" alt="Animated professional introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1800&color=00E5FF&center=true&vCenter=true&width=750&lines=Turning+Data+Into+Insights;Building+Intelligent+Solutions;Exploring+Machine+Learning+and+Deep+Learning;Learning+Today%2C+Building+Tomorrow" alt="Animated professional introduction"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6C63FF?style=for-the-badge" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Focus-Data%20Science-00BFA6?style=for-the-badge" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-00BFFF?style=for-the-badge" alt="Machine Learning"/>
 
 <br/><br/>
 
 <a href="https://github.com/govardhan-goud123">
-<img src="https://img.shields.io/badge/GitHub-govardhan--goud123-151515?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
+<img src="https://komarev.com/ghpvc/?username=govardhan-goud123&style=for-the-badge&color=6C63FF" alt="Profile views"/>
 </a>
-<img src="https://img.shields.io/badge/Data%20Science-5A189A?style=for-the-badge" alt="Data Science"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0077B6?style=for-the-badge" alt="Artificial Intelligence"/>
-<img src="https://komarev.com/ghpvc/?username=govardhan-goud123&style=for-the-badge&color=5A189A&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-# ABOUT ME
+I am an Artificial Intelligence and Data Science graduate interested in building intelligent systems, discovering patterns in data, and solving real-world problems using machine learning and modern AI technologies.
 
-**Data Science | Artificial Intelligence | Data Analytics**
+My learning journey covers data analysis, machine learning, deep learning, computer vision, natural language processing, large language models, and retrieval-augmented generation.
 
-</div>
+I focus on strengthening my technical skills through practical projects, experimentation, model evaluation, and continuous learning.
 
-Hello, I am **Govardhan Goud**, an aspiring Data Science and Artificial Intelligence professional.
+```python
+class GovardhanGoud:
+    def __init__(self):
+        self.name = "Govardhan Goud"
+        self.field = "Artificial Intelligence and Data Science"
+        self.interests = [
+            "Data Science",
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Retrieval-Augmented Generation"
+        ]
+        self.current_goal = "Build practical AI solutions"
 
-I am interested in understanding data, discovering useful patterns, building machine learning models, and exploring how artificial intelligence can solve real-world problems.
-
-My learning journey covers programming, data analytics, machine learning, deep learning, natural language processing, and generative AI.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Professional Focus
-
-Data Science and Machine Learning
-
-Artificial Intelligence and Deep Learning
-
-Natural Language Processing and LLMs
-
-Business Intelligence and Data Analytics
-
-</td>
-<td width="50%" valign="top">
-
-### Technical Focus
-
-Python and SQL
-
-Power BI and Tableau
-
-TensorFlow, Keras, and PyTorch
-
-Pandas, NumPy, and Scikit-learn
-
-</td>
-</tr>
-</table>
-
-My goal is to strengthen my technical skills and grow into a professional who can connect data, analytics, and artificial intelligence to develop useful solutions.
+    def approach(self):
+        return "Learn, experiment, build, evaluate, improve"
+```
 
 ---
 
+## Artificial Intelligence Ecosystem
+
 <div align="center">
 
-# ARTIFICIAL INTELLIGENCE ECOSYSTEM
-
-<img width="100%" src="https://quickchart.io/graphviz?graph=digraph%20G%20%7B%20graph%20%5Bbgcolor%3D%22%23090014%22%2Crankdir%3DTB%2Cpad%3D%220.35%22%2Cnodesep%3D%220.45%22%2Cranksep%3D%220.65%22%5D%3B%20node%20%5Bshape%3Dbox%2Cstyle%3D%22rounded%2Cfilled%22%2Cfontname%3D%22Arial%22%2Cfontsize%3D%2213%22%2Cmargin%3D%220.22%2C0.15%22%2Ccolor%3D%22%2300E5FF%22%2Cfontcolor%3D%22white%22%2Cpenwidth%3D%222%22%5D%3B%20edge%20%5Bcolor%3D%22%23B517FF%22%2Cpenwidth%3D%222%22%2Carrowsize%3D%220.8%22%5D%3B%20root%20%5Blabel%3D%22ARTIFICIAL%20INTELLIGENCE%22%2Cfillcolor%3D%22%23240046%22%2Cfontsize%3D%2220%22%5D%3B%20ds%20%5Blabel%3D%22DATA%20SCIENCE%5CnPython%20%7C%20SQL%5CnStatistics%20%7C%20Analysis%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20ml%20%5Blabel%3D%22MACHINE%20LEARNING%5CnClassification%20%7C%20Regression%5CnClustering%20%7C%20Prediction%22%2Cfillcolor%3D%22%23200B3B%22%5D%3B%20dl%20%5Blabel%3D%22DEEP%20LEARNING%5CnTensorFlow%20%7C%20Keras%20%7C%20PyTorch%5CnNeural%20Networks%22%2Cfillcolor%3D%22%230D3036%22%5D%3B%20nlp%20%5Blabel%3D%22NLP%20AND%20GENERATIVE%20AI%5CnTransformers%20%7C%20LLMs%5CnRAG%20%7C%20Text%20Processing%22%2Cfillcolor%3D%22%23240046%22%5D%3B%20bi%20%5Blabel%3D%22DATA%20ANALYTICS%5CnPower%20BI%20%7C%20Tableau%5CnExcel%20%7C%20Visualization%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20out%20%5Blabel%3D%22DATA-DRIVEN%20INSIGHTS%20AND%20INTELLIGENT%20SOLUTIONS%22%2Cfillcolor%3D%22%233A0CA3%22%2Cfontsize%3D%2215%22%5D%3B%20root-%3Eds%3B%20root-%3Eml%3B%20root-%3Edl%3B%20root-%3Enlp%3B%20root-%3Ebi%3B%20%7B%20rank%3Dsame%3B%20ds%3Bml%3Bdl%3Bnlp%3Bbi%3B%20%7D%20ds-%3Eout%3B%20ml-%3Eout%3B%20dl-%3Eout%3B%20nlp-%3Eout%3B%20bi-%3Eout%3B%20%7D" alt="Artificial Intelligence ecosystem diagram connecting Data Science, Machine Learning, Deep Learning, NLP, Generative AI, and Data Analytics"/>
+<img width="95%" src="https://quickchart.io/chart?width=900&height=540&backgroundColor=%230D1117&c={type:'graphviz',layout:'dot',graph:{rankdir:'TB',bgcolor:'transparent',pad:'0.3',nodesep:'0.35',ranksep:'0.55',fontname:'Arial',fontcolor:'%23FFFFFF',node:{shape:'box',style:'rounded,filled',fontname:'Arial',fontsize:15,color:'%2300E5FF',fontcolor:'%23FFFFFF',fillcolor:'%23161B22',margin:'0.22,0.14',penwidth:1.5},edge:{color:'%236C63FF',penwidth:1.5,arrowsize:0.7},'AI':'Artificial Intelligence','DS':'Data Science','ML':'Machine Learning','DL':'Deep Learning','NLP':'Natural Language Processing','CV':'Computer Vision','LLM':'Large Language Models','RAG':'Retrieval-Augmented Generation','BI':'Data Analytics and Business Intelligence',AI:{fillcolor:'%231B1745',color:'%236C63FF'},DS:{fillcolor:'%230E3339',color:'%2300E5FF'},ML:{fillcolor:'%231B1745',color:'%236C63FF'},DL:{fillcolor:'%231B1745',color:'%236C63FF'},NLP:{fillcolor:'%230E3339',color:'%2300E5FF'},CV:{fillcolor:'%230E3339',color:'%2300E5FF'},LLM:{fillcolor:'%231B1745',color:'%236C63FF'},RAG:{fillcolor:'%230E3339',color:'%2300E5FF'},BI:{fillcolor:'%230E3339',color:'%2300BFA6'},'AI'--'DS','AI'--'ML','ML'--'DL','DL'--'NLP','DL'--'CV','NLP'--'LLM','LLM'--'RAG','DS'--'BI'}}" alt="Artificial intelligence ecosystem diagram"/>
 
 </div>
+
+This diagram represents the main areas I study and how they connect to practical AI and data-driven applications.
 
 ---
 
-<div align="center">
+## Technical Skills
 
-# MACHINE LEARNING WORKFLOW
+### Programming and Data Analysis
 
-<img width="100%" src="https://quickchart.io/graphviz?graph=digraph%20G%20%7B%20graph%20%5Bbgcolor%3D%22%23090014%22%2Crankdir%3DLR%2Cpad%3D%220.35%22%2Cnodesep%3D%220.35%22%2Cranksep%3D%220.45%22%5D%3B%20node%20%5Bshape%3Dbox%2Cstyle%3D%22rounded%2Cfilled%22%2Cfontname%3D%22Arial%22%2Cfontsize%3D%2212%22%2Cmargin%3D%220.2%2C0.15%22%2Ccolor%3D%22%2300E5FF%22%2Cfontcolor%3D%22white%22%2Cpenwidth%3D%222%22%5D%3B%20edge%20%5Bcolor%3D%22%23B517FF%22%2Cpenwidth%3D%222%22%5D%3B%20a%20%5Blabel%3D%22DATA%20COLLECTION%22%2Cfillcolor%3D%22%2316003B%22%5D%3B%20b%20%5Blabel%3D%22DATA%20CLEANING%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20c%20%5Blabel%3D%22EXPLORATORY%20ANALYSIS%22%2Cfillcolor%3D%22%2316003B%22%5D%3B%20d%20%5Blabel%3D%22FEATURE%20ENGINEERING%22%2Cfillcolor%3D%22%230D3036%22%5D%3B%20e%20%5Blabel%3D%22MODEL%20TRAINING%22%2Cfillcolor%3D%22%23200B3B%22%5D%3B%20f%20%5Blabel%3D%22EVALUATION%22%2Cfillcolor%3D%22%2316003B%22%5D%3B%20g%20%5Blabel%3D%22INSIGHTS%20AND%20DEPLOYMENT%22%2Cfillcolor%3D%22%233A0CA3%22%5D%3B%20a-%3Eb-%3Ec-%3Ed-%3Ee-%3Ef-%3Eg%3B%20%7D" alt="Machine learning workflow from data collection through cleaning, analysis, feature engineering, model training, evaluation, and deployment"/>
-
-</div>
-
----
-
-<div align="center">
-
-# TECHNOLOGY STACK
-
-</div>
-
-### Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C plus plus"/>
-
-<br/>
-
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-
-</div>
-
-### Data Analytics and Business Intelligence
-
-<div align="center">
-
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-
 </div>
 
 ### Machine Learning and Deep Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="55" alt="TensorFlow and PyTorch"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<div>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-
 </div>
 
 ### Natural Language Processing and Generative AI
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-5A189A?style=for-the-badge" alt="Natural Language Processing"/>
+<div>
+<img src="https://img.shields.io/badge/NLP-0A9396?style=for-the-badge" alt="Natural Language Processing"/>
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-<img src="https://img.shields.io/badge/Large%20Language%20Models-0077B6?style=for-the-badge" alt="Large Language Models"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=for-the-badge" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
-
+<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge" alt="Large Language Models"/>
+<img src="https://img.shields.io/badge/RAG-00BFA6?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" alt="Generative AI"/>
 </div>
 
 ### Databases and Development Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,pycharm,jupyter" height="55" alt="Databases and development tools"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<div>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+</div>
+
+---
+
+## Machine Learning Workflow
+
+<div align="center">
+
+<img width="95%" src="https://quickchart.io/chart?width=1000&height=300&backgroundColor=%230D1117&c={type:'graphviz',layout:'dot',graph:{rankdir:'LR',bgcolor:'transparent',pad:'0.35',nodesep:'0.25',ranksep:'0.4',fontname:'Arial',node:{shape:'box',style:'rounded,filled',fillcolor:'%23161B22',color:'%2300E5FF',fontcolor:'%23FFFFFF',fontname:'Arial',fontsize:13,margin:'0.2,0.15',penwidth:1.5},edge:{color:'%236C63FF',penwidth:1.5,arrowsize:0.7},'A':'Data Collection','B':'Data Cleaning','C':'Exploratory Analysis','D':'Feature Engineering','E':'Model Training','F':'Evaluation','G':'Deployment','A'->'B'->'C'->'D'->'E'->'F'->'G'}}" alt="Machine learning workflow diagram"/>
+
+</div>
+
+My approach to building a machine learning solution follows a structured process:
+
+1. Collect relevant data and understand the problem.
+2. Clean the data and handle missing or incorrect values.
+3. Explore the data using statistics and visualizations.
+4. Prepare features for model training.
+5. Train suitable machine learning or deep learning models.
+6. Evaluate performance using appropriate metrics.
+7. Improve the solution and prepare it for practical use.
+
+---
+
+## Areas of Interest
+
+<div align="center">
+
+| Area                           | Main Focus                                               |
+| :----------------------------- | :------------------------------------------------------- |
+| Data Science                   | Data cleaning, exploratory analysis, feature engineering |
+| Machine Learning               | Classification, regression, clustering, model evaluation |
+| Deep Learning                  | Neural networks, CNNs, sequence models                   |
+| Computer Vision                | Image classification and visual recognition              |
+| Natural Language Processing    | Text processing, embeddings, transformer models          |
+| Large Language Models          | LLM applications and prompt engineering                  |
+| Retrieval-Augmented Generation | Connecting language models with external knowledge       |
+| Business Intelligence          | Dashboards, KPIs, and data-driven decisions              |
 
 </div>
 
 ---
 
-<div align="center">
-
-# AREAS OF INTEREST
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Data Science
-
-Statistical Analysis
-
-Predictive Modeling
-
-Feature Engineering
-
-Data Preparation
-
-</td>
-<td align="center" width="33%">
-
-### Artificial Intelligence
-
-Machine Learning
-
-Deep Learning
-
-Natural Language Processing
-
-Generative AI
-
-</td>
-<td align="center" width="33%">
-
-### Data Analytics
-
-Business Intelligence
-
-Power BI Dashboards
-
-Data Visualization
-
-Data-Driven Decisions
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
+## GitHub Statistics
 
 <div align="center">
-
-# GITHUB STATISTICS
 
 <a href="https://github.com/govardhan-goud123">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=govardhan-goud123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics card"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=govardhan-goud123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/govardhan-goud123">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govardhan-goud123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govardhan-goud123&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/govardhan-goud123">
-<img width="75%" src="https://streak-stats.demolab.com?user=govardhan-goud123&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/govardhan-goud123">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=govardhan-goud123&theme=react-dark" alt="GitHub activity graph"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=govardhan-goud123&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </a>
 
 </div>
 
 ---
 
+## GitHub Contribution Activity
+
 <div align="center">
 
-# LEARNING PHILOSOPHY
+<a href="https://github.com/govardhan-goud123">
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:16003B,50:3C096C,100:0077B6&height=100&text=LEARN%20%7C%20PRACTICE%20%7C%20IMPROVE&fontSize=25&fontColor=FFFFFF&animation=fadeIn" alt="Learning philosophy banner"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=govardhan-goud123&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
-<br/><br/>
-
-I believe that strong technical skills come from continuous learning, clear understanding, and practical implementation.
-
-My goal is to understand how data becomes information, how information supports decisions, and how artificial intelligence can create intelligent solutions.
+</a>
 
 </div>
 
 ---
 
+## Learning Philosophy
+
+I believe in learning by building, testing ideas, understanding mistakes, and improving step by step.
+
+My goal is to strengthen my foundations in data science and AI while developing practical solutions that demonstrate problem-solving, analytical thinking, and technical growth.
+
+I aim to keep improving my skills in machine learning, deep learning, NLP, LLMs, and data analytics.
+
+---
+
+## Connect With Me
+
 <div align="center">
 
-# CONNECT WITH ME
-
 <a href="https://github.com/govardhan-goud123">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Visit my GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Govardhan%20Goud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:5A189A,100:090014&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=23&fontColor=FFFFFF&fontAlignY=55" alt="Animated profile footer"/>
+<div align="center">
 
-**Data Science. Artificial Intelligence. Continuous Growth.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:6C63FF,100:0D1117&section=footer" alt="Profile footer banner"/>
 
 </div>
