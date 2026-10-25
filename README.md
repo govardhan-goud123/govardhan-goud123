@@ -8,9 +8,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/govardhan-goud123">
 <img src="https://img.shields.io/badge/GitHub-govardhan--goud123-151515?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
-</a>
 <img src="https://img.shields.io/badge/Data%20Science-5A189A?style=for-the-badge" alt="Data Science"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-0077B6?style=for-the-badge" alt="Artificial Intelligence"/>
 <img src="https://komarev.com/ghpvc/?username=govardhan-goud123&style=for-the-badge&color=5A189A&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -21,13 +19,13 @@
 
 <div align="center">
 
-# ABOUT ME
+# 👨‍💻 ABOUT ME
 
-**Data Science | Artificial Intelligence | Data Analytics**
+### Data Science | Artificial Intelligence | Data Analytics
 
 </div>
 
-Hello, I am **Govardhan Goud**, an aspiring Data Science and Artificial Intelligence professional.
+Hello! I am **Govardhan Goud**, an aspiring Data Science and Artificial Intelligence professional.
 
 I am interested in understanding data, discovering useful patterns, building machine learning models, and exploring how artificial intelligence can solve real-world problems.
 
@@ -37,36 +35,38 @@ My learning journey covers programming, data analytics, machine learning, deep l
 <tr>
 <td width="50%" valign="top">
 
-### Professional Focus
+### 🎯 Professional Focus
 
 * Data Science and Machine Learning
 * Artificial Intelligence and Deep Learning
 * Natural Language Processing and LLMs
+* Generative AI and RAG
 * Business Intelligence and Data Analytics
 
 </td>
 <td width="50%" valign="top">
 
-### Technical Focus
+### ⚡ Technical Focus
 
 * Python and SQL
 * Power BI and Tableau
 * TensorFlow, Keras, and PyTorch
 * Pandas, NumPy, and Scikit-learn
+* Transformers, LLMs, and AI applications
 
 </td>
 </tr>
 </table>
 
-My goal is to strengthen my technical skills and grow into a professional who can connect data, analytics, and artificial intelligence to develop useful solutions.
+My goal is to strengthen my technical skills and develop practical solutions by combining data, analytics, and artificial intelligence.
 
 ---
 
 <div align="center">
 
-# ARTIFICIAL INTELLIGENCE ECOSYSTEM
+# 🧠 ARTIFICIAL INTELLIGENCE ECOSYSTEM
 
-<img width="100%" src="https://quickchart.io/graphviz?graph=digraph%20G%20%7B%20graph%20%5Bbgcolor%3D%22%23090014%22%2Crankdir%3DTB%2Cpad%3D%220.35%22%2Cnodesep%3D%220.45%22%2Cranksep%3D%220.65%22%5D%3B%20node%20%5Bshape%3Dbox%2Cstyle%3D%22rounded%2Cfilled%22%2Cfontname%3D%22Arial%22%2Cfontsize%3D%2213%22%2Cmargin%3D%220.22%2C0.15%22%2Ccolor%3D%22%2300E5FF%22%2Cfontcolor%3D%22white%22%2Cpenwidth%3D%222%22%5D%3B%20edge%20%5Bcolor%3D%22%23B517FF%22%2Cpenwidth%3D%222%22%2Carrowsize%3D%220.8%22%5D%3B%20root%20%5Blabel%3D%22ARTIFICIAL%20INTELLIGENCE%22%2Cfillcolor%3D%22%23240046%22%2Cfontsize%3D%2220%22%5D%3B%20ds%20%5Blabel%3D%22DATA%20SCIENCE%5CnPython%20%7C%20SQL%5CnStatistics%20%7C%20Analysis%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20ml%20%5Blabel%3D%22MACHINE%20LEARNING%5CnClassification%20%7C%20Regression%5CnClustering%20%7C%20Prediction%22%2Cfillcolor%3D%22%23200B3B%22%5D%3B%20dl%20%5Blabel%3D%22DEEP%20LEARNING%5CnTensorFlow%20%7C%20Keras%20%7C%20PyTorch%5CnNeural%20Networks%22%2Cfillcolor%3D%22%230D3036%22%5D%3B%20nlp%20%5Blabel%3D%22NLP%20AND%20GENERATIVE%20AI%5CnTransformers%20%7C%20LLMs%5CnRAG%20%7C%20Text%20Processing%22%2Cfillcolor%3D%22%23240046%22%5D%3B%20bi%20%5Blabel%3D%22DATA%20ANALYTICS%5CnPower%20BI%20%7C%20Tableau%5CnExcel%20%7C%20Visualization%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20out%20%5Blabel%3D%22DATA-DRIVEN%20INSIGHTS%20AND%20INTELLIGENT%20SOLUTIONS%22%2Cfillcolor%3D%22%233A0CA3%22%2Cfontsize%3D%2215%22%5D%3B%20root-%3Eds%3B%20root-%3Eml%3B%20root-%3Edl%3B%20root-%3Enlp%3B%20root-%3Ebi%3B%20%7B%20rank%3Dsame%3B%20ds%3Bml%3Bdl%3Bnlp%3Bbi%3B%20%7D%20ds-%3Eout%3B%20ml-%3Eout%3B%20dl-%3Eout%3B%20nlp-%3Eout%3B%20bi-%3Eout%3B%20%7D" alt="Artificial Intelligence ecosystem connecting Data Science, Machine Learning, Deep Learning, NLP, Generative AI, and Data Analytics"/>
+<img width="100%" src="https://quickchart.io/graphviz?graph=digraph%20G%20%7B%20graph%20%5Bbgcolor%3D%22%23090014%22%2Crankdir%3DTB%2Cpad%3D%220.35%22%2Cnodesep%3D%220.45%22%2Cranksep%3D%220.65%22%5D%3B%20node%20%5Bshape%3Dbox%2Cstyle%3D%22rounded%2Cfilled%22%2Cfontname%3D%22Arial%22%2Cfontsize%3D%2213%22%2Cmargin%3D%220.22%2C0.15%22%2Ccolor%3D%22%2300E5FF%22%2Cfontcolor%3D%22white%22%2Cpenwidth%3D%222%22%5D%3B%20edge%20%5Bcolor%3D%22%23B517FF%22%2Cpenwidth%3D%222%22%2Carrowsize%3D%220.8%22%5D%3B%20root%20%5Blabel%3D%22ARTIFICIAL%20INTELLIGENCE%22%2Cfillcolor%3D%22%23240046%22%2Cfontsize%3D%2220%22%5D%3B%20ds%20%5Blabel%3D%22DATA%20SCIENCE%5CnPython%20%7C%20SQL%5CnStatistics%20%7C%20Analysis%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20ml%20%5Blabel%3D%22MACHINE%20LEARNING%5CnClassification%20%7C%20Regression%5CnClustering%20%7C%20Prediction%22%2Cfillcolor%3D%22%23200B3B%22%5D%3B%20dl%20%5Blabel%3D%22DEEP%20LEARNING%5CnTensorFlow%20%7C%20Keras%20%7C%20PyTorch%5CnNeural%20Networks%22%2Cfillcolor%3D%22%230D3036%22%5D%3B%20nlp%20%5Blabel%3D%22NLP%20AND%20GENERATIVE%20AI%5CnTransformers%20%7C%20LLMs%5CnRAG%20%7C%20Text%20Processing%22%2Cfillcolor%3D%22%23240046%22%5D%3B%20bi%20%5Blabel%3D%22DATA%20ANALYTICS%5CnPower%20BI%20%7C%20Tableau%5CnExcel%20%7C%20Visualization%22%2Cfillcolor%3D%22%230D1930%22%5D%3B%20out%20%5Blabel%3D%22DATA-DRIVEN%20INSIGHTS%20AND%20INTELLIGENT%20SOLUTIONS%22%2Cfillcolor%3D%22%233A0CA3%22%2Cfontsize%3D%2215%22%5D%3B%20root-%3Eds%3B%20root-%3Eml%3B%20root-%3Edl%3B%20root-%3Enlp%3B%20root-%3Ebi%3B%20%7B%20rank%3Dsame%3B%20ds%3Bml%3Bdl%3Bnlp%3Bbi%3B%20%7D%20ds-%3Eout%3B%20ml-%3Eout%3B%20dl-%3Eout%3B%20nlp-%3Eout%3B%20bi-%3Eout%3B%20%7D" alt="Artificial Intelligence ecosystem diagram"/>
 
 </div>
 
@@ -74,9 +74,163 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 <div align="center">
 
-# MACHINE LEARNING WORKFLOW
+# ⚡ MY GENERATIVE AI ROADMAP
 
-<img width="100%" src="./assets/machine-learning-workflow.gif" alt="Animated workflow with moving arrows connecting Data Collection, Data Cleaning, Exploratory Data Analysis, Feature Engineering, Model Training, Evaluation, and Deployment"/>
+**My learning path from Python foundations to building and deploying Generative AI applications.**
+
+<img width="100%" src="./assets/genai-roadmap-neon.gif" alt="Animated neon Generative AI roadmap with moving cyan particles and glowing purple stages, from Python foundations to production AI"/>
+
+</div>
+
+### 🟣 Phase 1 — Programming and Mathematics
+
+**Learn the foundations before building AI applications.**
+
+* Python fundamentals
+* Functions, classes, and modules
+* NumPy and Pandas
+* Basic statistics and probability
+* Linear algebra fundamentals
+* Git and GitHub
+
+**Mini project:** Build a Python data analysis project.
+
+### 🔵 Phase 2 — Data Science and Machine Learning
+
+**Learn how computers find patterns in data.**
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature engineering
+* Regression and classification
+* Clustering
+* Model evaluation and validation
+* Scikit-learn
+
+**Mini project:** Build a machine learning prediction system.
+
+### 🟣 Phase 3 — Deep Learning
+
+**Understand neural networks and how they learn.**
+
+* Artificial Neural Networks
+* Forward propagation and backpropagation
+* Loss functions and optimizers
+* Activation functions
+* CNN fundamentals
+* Embeddings
+* TensorFlow, Keras, or PyTorch
+
+**Mini project:** Build an image or text classification model.
+
+### 🔵 Phase 4 — NLP and Transformers
+
+**Learn the technology behind modern language models.**
+
+* Text preprocessing and tokenization
+* Word embeddings
+* Attention mechanism
+* Self-attention and multi-head attention
+* Positional encoding
+* Encoder and decoder architecture
+* Transformer models
+* BERT and GPT concepts
+* Hugging Face Transformers
+
+**Mini project:** Build a text classification or sentiment analysis application.
+
+### 🟣 Phase 5 — Large Language Models (LLMs)
+
+**Understand how to work with modern language models.**
+
+* LLM architecture and concepts
+* Tokens and context windows
+* Prompt engineering
+* System and user instructions
+* Few-shot prompting
+* Structured outputs
+* Model parameters and generation settings
+* API integration
+* Introduction to fine-tuning
+
+**Mini project:** Build an AI text summarizer or document question-answering tool.
+
+### 🔵 Phase 6 — Retrieval-Augmented Generation (RAG)
+
+**Build AI applications that answer questions using your own documents.**
+
+* RAG architecture
+* Document loading
+* Text chunking
+* Embeddings
+* Vector databases
+* Semantic search
+* Retrieval and reranking
+* Context construction
+* Answer generation
+* Retrieval and answer evaluation
+
+**Mini project:** Build a PDF question-answering system using RAG.
+
+### 🟣 Phase 7 — AI Agents and Tool Calling
+
+**Learn how AI applications can use tools to complete tasks.**
+
+* Function and tool calling
+* Structured data exchange
+* Multi-step AI workflows
+* Agent planning concepts
+* Memory and conversation history
+* API and database integration
+* Workflow orchestration
+* Error handling and guardrails
+
+**Mini project:** Build an AI research assistant that searches permitted sources and summarizes findings.
+
+### 🔵 Phase 8 — Fine-Tuning and Advanced GenAI
+
+**Explore how to adapt models and improve application quality.**
+
+* Fine-tuning concepts
+* Transfer learning
+* LoRA and QLoRA
+* Dataset preparation
+* Training and validation
+* Model quantization
+* Open-source language models
+* Model selection and benchmarking
+
+**Mini project:** Experiment with adapting a small language model to a specific task.
+
+### 🟣 Phase 9 — Deployment and Production
+
+**Turn your project into a usable application.**
+
+* Build APIs with FastAPI
+* Environment variables and secret management
+* Docker fundamentals
+* Model and prompt evaluation
+* Latency and token-cost monitoring
+* Logging and error handling
+* Security and privacy
+* Hallucination reduction
+* Responsible AI practices
+* Deployment and documentation
+
+**Final project:** Build and deploy a complete Generative AI application with document retrieval, evaluation, and an API.
+
+---
+
+<div align="center">
+
+### 🚀 ROADMAP GOAL
+
+<img src="https://img.shields.io/badge/FOUNDATIONS-Python%20%26%20ML-5A189A?style=for-the-badge" alt="Foundations"/>
+<img src="https://img.shields.io/badge/LLMs-Transformers%20%26%20RAG-0077B6?style=for-the-badge" alt="LLMs and RAG"/>
+<img src="https://img.shields.io/badge/ADVANCED-Agents%20%26%20Fine--Tuning-7B2CBF?style=for-the-badge" alt="Advanced Generative AI"/>
+<img src="https://img.shields.io/badge/PRODUCTION-Deploy%20%26%20Evaluate-00A896?style=for-the-badge" alt="Production AI"/>
+
+**Learn → Build → Evaluate → Improve → Deploy**
 
 </div>
 
@@ -84,7 +238,7 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 <div align="center">
 
-# TECHNOLOGY STACK
+# 🛠️ TECHNOLOGY STACK
 
 </div>
 
@@ -92,9 +246,7 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=python,cpp" alt="Python and C++"/>
 
 <br/>
 
@@ -109,7 +261,6 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
@@ -119,7 +270,7 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="55" alt="TensorFlow and PyTorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow and PyTorch"/>
 
 <br/>
 
@@ -131,13 +282,13 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 </div>
 
-### Natural Language Processing and Generative AI
+### NLP and Generative AI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-5A189A?style=for-the-badge" alt="Natural Language Processing"/>
+<img src="https://img.shields.io/badge/NLP-5A189A?style=for-the-badge" alt="Natural Language Processing"/>
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-<img src="https://img.shields.io/badge/Large%20Language%20Models-0077B6?style=for-the-badge" alt="Large Language Models"/>
+<img src="https://img.shields.io/badge/LLMs-0077B6?style=for-the-badge" alt="Large Language Models"/>
 <img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=for-the-badge" alt="Generative AI"/>
 <img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
 
@@ -147,14 +298,13 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,pycharm,jupyter" height="55" alt="Databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,pycharm" alt="Databases and development tools"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 
 </div>
 
@@ -162,13 +312,13 @@ My goal is to strengthen my technical skills and grow into a professional who ca
 
 <div align="center">
 
-# AREAS OF INTEREST
+# 💡 AREAS OF INTEREST
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### Data Science
+### 📊 Data Science
 
 Statistical Analysis
 
@@ -181,7 +331,7 @@ Data Preparation
 </td>
 <td align="center" width="33%">
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 Machine Learning
 
@@ -194,7 +344,7 @@ Generative AI
 </td>
 <td align="center" width="33%">
 
-### Data Analytics
+### 📈 Data Analytics
 
 Business Intelligence
 
@@ -214,10 +364,10 @@ Data-Driven Decisions
 
 <div align="center">
 
-# GITHUB STATISTICS
+# 📈 GITHUB STATISTICS
 
 <a href="https://github.com/govardhan-goud123">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=govardhan-goud123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics card"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=govardhan-goud123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/govardhan-goud123">
@@ -226,7 +376,7 @@ Data-Driven Decisions
 
 <br/><br/>
 
-<h2>GitHub Contribution Activity</h2>
+### GitHub Contribution Activity
 
 <a href="https://github.com/govardhan-goud123">
 <img width="95%" src="https://ghchart.rshah.org/5A189A/govardhan-goud123" alt="GitHub contribution activity chart"/>
@@ -238,7 +388,7 @@ Data-Driven Decisions
 
 <div align="center">
 
-# LEARNING PHILOSOPHY
+# 🌱 LEARNING PHILOSOPHY
 
 <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:16003B,50:3C096C,100:0077B6&height=100&text=LEARN%20%7C%20PRACTICE%20%7C%20IMPROVE&fontSize=25&fontColor=FFFFFF&animation=fadeIn" alt="Learning philosophy banner"/>
 
@@ -248,13 +398,15 @@ I believe that strong technical skills come from continuous learning, clear unde
 
 My goal is to understand how data becomes information, how information supports decisions, and how artificial intelligence can create intelligent solutions.
 
+**Every project is an opportunity to learn something new.**
+
 </div>
 
 ---
 
 <div align="center">
 
-# CONNECT WITH ME
+# 📬 CONNECT WITH ME
 
 <a href="https://github.com/govardhan-goud123">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Visit my GitHub profile"/>
